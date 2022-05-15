@@ -1,5 +1,7 @@
 # A simple music player made with Vanilla Js
-It's a simple music player made with vanilla jsvascript without any frameworks or bells and whistles. 
+It's a simple music player made with vanilla jsvascript without any frameworks or bells and whistles.
+
+![Screenshot](./img/Screenshot.png?raw=true "Screenshot")
 
 ## To use this 
 
